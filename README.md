@@ -2,15 +2,6 @@
 
 Equity-i is a private equity firm based in Dubai UAE. Equity-i focuses on the education, real estate, mining, and healthcare sectors.
 
-Please look brief of client : https://github.com/DevDodol/design-equity-i/blob/master/suggest_clients.md
+Please look demo version : https://drive.google.com/file/d/0ByfUEIT1Ee10YjVVNTJUdXp6a2c/view?usp=sharing
 
-# Total Pages
-5 x Web page design(s)
-
-# Content details
-
-## Page descriptions
-Overview, Focus, Track Record, Team, News/Contact.
-
-## What to avoid
-pink, purple, yellow, basically the too flashy colors
+Design By Trian666le Illumination
